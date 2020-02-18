@@ -18,3 +18,6 @@ Plug 'morhetz/gruvbox'
 Plug 'HerringtonDarkholme/yats.vim' " TS Syntax
 
 call plug#end()
+
+set nu
+# TODO: ADD SETTINGS FROM VIMGALORE
